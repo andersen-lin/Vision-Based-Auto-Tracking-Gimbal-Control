@@ -1,8 +1,4 @@
-/* Organization: VCIPL
- * Author Name: Andersen Lin
- * Email: andersen.lin@okstate.edu
- * Date: May 3rd, 2020
-*/
+// Author Name: Andersen Lin
 
 // To compile: g++ -std=c++11 Sender.cpp -o Sender -lserial
 // To run: sudo ./Sender
