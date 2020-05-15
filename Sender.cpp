@@ -1,4 +1,4 @@
-/* Author Name: Andersen Lin
+/* Author: Andersen Lin
  * Email: andersen1997801@gmail.com
  * Discription: this is a demo code for that works with Nuitrack SDK and ROS
  * it rotates a gimbal based on the inputs from joint positions and collaborates with a robot to trace a human body 
