@@ -1,7 +1,10 @@
-// Author Name: Andersen Lin
+/* Author Name: Andersen Lin
+ * Discription: this is a demo code for that works with Nuitrack SDK and ROS
+ * it rotates a gimbal based on the inputs from joint positions and collaborates with a robot to trace a human body 
+ * To Compile: g++ -std=c++11 Sender.cpp -o Sender -lserial
+ * To Run: sudo ./Sender
+ */
 
-// To compile: g++ -std=c++11 Sender.cpp -o Sender -lserial
-// To run: sudo ./Sender
 #include <serial/serial.h>
 
 #include <fstream>
