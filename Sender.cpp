@@ -30,7 +30,7 @@
 #include <unistd.h>
 #endif
 
-using namespace std
+using namespace std;
 #define PORT 8080
 #define PI 3.1415926535
 
